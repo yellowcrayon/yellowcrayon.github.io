@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         kramdown #redcarpet
+highlighter:      Pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Jamie Wilcox
+tagline:          'Hello world!'
+description:      'Scientist, Engineer, Educator'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+#version:          
+
+#github:
+#  repo:           
+
+gems: [jekyll-paginate]
