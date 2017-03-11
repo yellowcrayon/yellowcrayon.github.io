@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Projects and Content
 ---
 
 I love to create; below are some of my recent projects:
