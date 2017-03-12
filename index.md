@@ -60,4 +60,3 @@ I designed and taught a course for high schoolers where I covered topics on rati
 - Mentored undergraduate researchers 
 - Extensive experience with technical presentations
 - Extensive experience with data analysis and simulations in MATLAB
-
