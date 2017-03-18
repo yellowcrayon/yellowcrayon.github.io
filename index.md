@@ -21,7 +21,7 @@ I believe that education is the key to maintaining a vibrant, complex, and equit
 - Designed and taught a course on rational thinking for high schoolers
 - Designed and taught a class session on ethical considerations in automation
 - Designed and taught this year's Mechanical Engineering Teaching Assistant training as Lead TA for the ME Department at UCSB
-- Served as a teaching assistant for 7 engineering classes at UCSB, including mechanical engineering design, control system design, molecular and cellular biomechanics, and computer-aided machining.
+- Served as a teaching assistant for 7 engineering classes at UCSB, including Mechanical Engineering Design, Control System Design, Molecular and Cellular Biomechanics, and Computer-Aided Machining.
 - Taught labs on computer-aided milling, routing, laser cutting, and 3D printing
 - Started and organized an education and pedagogy group at UCSB
 - Received extensive pedagogical training through UCSB's Instructional Development department
