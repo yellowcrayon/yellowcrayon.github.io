@@ -3,8 +3,17 @@ layout: page
 title: Contact
 ---
 
+<br/>
 
-Coming soon!
+#### Email
+jcwilcox [at] engr.ucsb.edu
+
+<br/>
+
+#### Linkedin
+[https://www.linkedin.com/in/jamianne-wilcox](https://www.linkedin.com/in/jamianne-wilcox)
+
+
 
 <!--
 <p class="message">
