@@ -6,16 +6,42 @@ title: Projects and Content
 I love to create; below are some of my recent projects:
 
 <div class="projectblock">
-<h2> Brain Hacks: Thinking Clearly with a Deceitful Brain </h2>
+<a href = "/2017/06/10/brainhacks">
+<h2> Brain Hacks: A course on rational thinking for high schoolers </h2>
+</a>
+</div>
+
+<!--\_posts\Post_BrainHacks.md-->
+<!--/p3-teaching-philosophy/-->
+
+<div class="projectblock">
+<a href = "/2017/06/10/brainhacks" >
+<img src="\images\SST_Closeup2.png" height="200" align="left" style="margin-right: 20px"/>
+</a>
+
+<br>
+Can you trust what you see on the news? How reliable are your memories? How do scientists sift through the data to differentiate fact from fiction? Our brains trick us every day, presenting feelings as facts and making us think we know and remember things that we actually don't. 
+<br> <br>
+I designed a course to teach high schoolers how to be skeptical of their own minds, and the information they absorb. Students learned about the tools that scientists use to design experiments and make logical deductions, and that the "facts" we see all around us aren't always as reliable as they seem.
+
+</div>
+
+----------------------------------------------------------------------------
+
+<div class="projectblock">
+<h2> Mystery Tubes </h2>
 </div>
 
 <div class="projectblock">
-<img src="\images\o4zhtU8.jpg" height="200" align="left" style="margin-right: 20px"/>
 
-"I am so proud to serve our great country." --Colonel Slott Slowmann
+<img src="\images\o4zhtU8.jpg" height="200" align="right" style="margin-left: 20px"/>
+<!--<img src="\images\o4zhtU8.jpg" height="200" align="left" style="margin-right: 20px"/>-->
+
+These devices behave in strange and surprising ways! I put my own spin on a classic classroom puzzle to teach troubleshooting and the scientific method.
 
 </div>
 
+----------------------------------------------------------------------------
 
 <div class="projectblock">
 <h2> Ethics of Automation </h2>

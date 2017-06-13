@@ -43,4 +43,3 @@ I love to build things and understand how things work. I received my Bachelor of
 - Extensive experience with data analysis and simulations in MATLAB
 - Designed and managed biophysics experiments
 
-
