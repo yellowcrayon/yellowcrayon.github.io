@@ -7,7 +7,7 @@ title: Brain Hacks&#58 A course on rational thinking for high schoolers
 
 ## The School for Scientific Thought
 
-I designed and taught this course for the [School for Scientific Thought](http://sst-csep.cnsi.ucsb.edu/) (SST) program at UCSB. 
+I designed and taught this course for the [School for Scientific Thought](http://sst-csep.cnsi.ucsb.edu/) (SST) program at UCSB.
 
 The purpose of the SST program is to engage high school students in a specialized science topic that isn't covered in school, while also introducing the students to a university setting and to scientist and engineer role models. Graduate students instructors design and teach courses in which they have particular expertise. The program runs for five consecutive weekends, with one two-hour session each week.
 
@@ -15,7 +15,7 @@ The purpose of the SST program is to engage high school students in a specialize
 
 I chose to explore the topic of rational thinking with the central question, "how do our brains trick us?" 
 
-Rational thinking is a crucial scientific ability that is often touched on in science classes, but is rarely covered in depth. Skills such as interpreting data, designing experiments, and understanding how our brains can trick us, are typically left for budding scientists to “learn by osmosis,” even though reliable research hinges on them. Since many SST students have plans to pursue higher education in science and engineering, I felt that these skills would give them ... These skills are also valuable for better decision making in everyday life. 
+Rational thinking is a crucial scientific ability that is often touched on in science classes, but is rarely covered in depth. Skills such as interpreting data, designing experiments, and understanding how our brains can trick us, are typically left for budding scientists to “learn by osmosis,” even though reliable research hinges on them. Since many SST students have plans to pursue higher education in science and engineering, I felt that these skills would benefit them both in the classroom and in everyday life.
 
 My main goal for the course was to show students the ways in which our brains can mislead us, and to emphasize that human brains do not think rationally by default.
 
@@ -32,7 +32,7 @@ The SST program does not include exams or homework, which makes sense for the na
 
 To overcome this challenge, I experimented with "minute papers", an activity where the instructor posts two to three classes in the last few minutes of class and the students write their responses. Minute paper questions are usually fairly open ended, for example "what do you think the main point of today's lesson was?" or "what was the most confusing topic? Did it get cleared up, or are you still confused?"
 
-The minute papers turned out to be a great way to assess whether the students were following the course. For the most part, they indicated that students were getting the main points of the sessions.
+The minute papers turned out to be a great way to assess whether the students were following the course. I was able to use them to determine which topics students were getting, and which ones needed more attention in the next class.
 
 ## Demystifying abstract concepts with concrete activities
 
@@ -44,9 +44,30 @@ My most successful lessons were
 - Law of Small Numbers
 
 
-## Lessons learned
+## Improving my teaching
 
-This was my first time teaching a large group of high schoolers, and I learned a great deal about classroom management. 
+This was my first time teaching a large group of high schoolers, and I learned a great deal about classroom management. It can be tough to curate a supportive learning environment in a short amount of time, but I did my best to learn the students names quickly, and I tried to work with students personalities to make everyone comfortable. For example, I tried to engage the more outgoing students during whole-class activities, and gave more attention to the quieter students when they worked in small groups. 
+
+My overarching classroom philosophy is that students work best when they feel respected. I always share my learning goals with the students, and emphasize that my role is to facilitate their learning, not to judge them. In this respect I found that high schoolers were no different from the college students I typically work with.
+
+Because of my mechanical engineering background, the topics I typically explain to students are very concrete and physical (e.g. forces, velocities, etc.) The ideas of rational thinking are much more abstract, and required me to get creative with my lesson plans. For every abstract concept, I tried to design a concrete experience to illustrate the core principles. For example, students got to experience the law of small numbers by sampling data in the form of colored candies. Given more class time, I would create more of these experiences.
+
+My most important learning objective was for students to become more skeptical of their own minds, and in this I believe the class succeeded. Students completed an exit survey for the course and their responses were enthusiastic and encouraging. For example:
+
+What was the most interesting topic you covered in your SST course?
+"The way your brain tricks you.  I wasn't expecting nor did I ever imagine all the ways we are tricked."
+
+Briefly describe what your SST course was about.
+"My SST course was about learning about the brain and understanding how to think clearly and recognizing fallacies and where our brains trick us.  We learned many different ways to avoid it and techniques to take back with us."
+
+
+## Future work
+
+It is difficult for humans to identify cognitive biases in external information, and it's significantly harder to maintain skeptisism of our own minds. A few months after the SST course, I attended a workshop on backward design. Starting with the learning objective "Students will identify specific cognitive biases in their own thinking," my peers and I came up a class activity: students in a class could tweet or post biases that they found themselves using, with the requirement that they post once a week, or some predetermined number of times over the length of the course. I hope to be able to use this and other exercises I developed in future learning objects on rational thinking.
+
+
+<!--
+I identified which students were 
 
 I learned some tricks for getting them out of their shells
 
@@ -74,3 +95,6 @@ Students not coming to all classes?
 My first time working with high schoolers?
 
 It's easy to be skeptical of others' assertions, but harder to be skeptical about our own thoughts.
+
+These skills are also valuable for better decision making in everyday life. 
+-->
