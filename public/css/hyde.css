@@ -170,6 +170,20 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/* Centered Image */
+
+IMG.LRUDCentered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+/* Left aligned, up-down centered container */
+
+DIV.LAUDCenContainer {
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle }
+
 
 
 /*

@@ -16,6 +16,7 @@ I love to create; below are some of my recent projects:
 
 <div class="projectblock">
 <a href = "/2017/06/10/brainhacks" >
+
 <img src="\images\SST_Closeup2.png" height="200" align="left" style="margin-right: 20px"/>
 </a>
 

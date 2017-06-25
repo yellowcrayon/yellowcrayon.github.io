@@ -7,7 +7,7 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Jamie Wilcox
+title:            <a href = "/"> Jamie Wilcox </a>
 tagline:          'Hello world!'
 description:      'Scientist | Engineer | Educator'
 url:              http://hyde.getpoole.com
