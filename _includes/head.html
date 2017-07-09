@@ -6,11 +6,41 @@
   <!-- Get rid of underlines on links -->
   <style>
     <!--
-    A{text-decoration:none !important}
+/*    A{text-decoration:none !important}*/
 /*    A{color:#999 !important}*/
 /*    A{opacity:0.7 !important}*/
     -->
+      
+      /* formatting for regular text links */
+      a:link{
+          text-decoration:none;
+      }
+      
+      /* hover state for regular text links */
+      a:hover{
+          text-decoration:none !important;
+          opacity:0.7;
+      }
+      
+      /* visited state for regular text links (after the link is clicked)*/
+      a:visited{
+          text-decoration:none !important;
+          opacity:0.7;
+      }
+      
+      /* active state for regular text links (the moment the link is clicked) */
+      a:active{
+          text-decoration:none !important;
+          opacity:0.7;
+      }
+      
+      /* a special link class for the project blocks*/
+      .projectLink{
+          color:#515151;
+          text-decoration:none !important;
+      }
   </style>
+   
     
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">

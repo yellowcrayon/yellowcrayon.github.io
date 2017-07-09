@@ -21,18 +21,34 @@ I love to create; below are some of my recent projects:
 <!--</a>-->
 
 <!--<a href = "/2017/06/10/brainhacks" style = "text-decoration: none">-->
-<br>
+<!--<br>-->
 Can you trust what you see on the news? How reliable are your memories? How do scientists sift through the data to differentiate fact from fiction? Our brains trick us every day, presenting feelings as facts and making us think we know and remember things that we actually don't. 
 <br> <br>
 I designed a course to teach high schoolers how to be skeptical of their own minds, and the information they absorb. Students learned about the tools that scientists use to design experiments and make logical deductions, and that the "facts" we see all around us aren't always as reliable as they seem.
 </FONT>
 </a>
-
-
 </div>
 
 ----------------------------------------------------------------------------
 
+<div class="projectblock">
+<a href = "/2017/06/25/mysterytubes" >
+<h2> Mystery Tubes </h2>
+</a>
+</div>
+
+<div class="projectblock">
+<a href = "/2017/06/25/mysterytubes" class = "projectLink">
+
+<img src="\images\MysteryTube1.jpg" height="200" align="left" style="margin-right: 20px"/>
+
+These devices behave in strange and surprising ways! I put my own spin on a classic classroom puzzle to teach troubleshooting and the scientific method.
+</a>
+</div>
+
+----------------------------------------------------------------------------
+
+<!--
 <div class="projectblock">
 <a href = "/2017/06/25/mysterytubes" >
 <h2> Mystery Tubes </h2>
@@ -45,15 +61,16 @@ I designed a course to teach high schoolers how to be skeptical of their own min
 <img src="\images\MysteryTube1.jpg" height="200" align="left" style="margin-right: 20px"/>
 </a>
 
-<!--<img src="\images\o4zhtU8.jpg" height="200" align="right" style="margin-left: 20px"/>-->
-<!--<img src="\images\o4zhtU8.jpg" height="200" align="left" style="margin-right: 20px"/>-->
-
 These devices behave in strange and surprising ways! I put my own spin on a classic classroom puzzle to teach troubleshooting and the scientific method.
 
 </div>
+-->
 
 ----------------------------------------------------------------------------
 
+
+
+<!--
 <div class="projectblock">
 <h2> Ethics of Automation </h2>
 </div>
@@ -61,11 +78,21 @@ These devices behave in strange and surprising ways! I put my own spin on a clas
 <div class="projectblock">
 
 <img src="\images\o4zhtU8.jpg" height="200" align="right" style="margin-left: 20px"/>
-<!--<img src="\images\o4zhtU8.jpg" height="200" align="left" style="margin-right: 20px"/>-->
+<img src="\images\o4zhtU8.jpg" height="200" align="left" style="margin-right: 20px"/>
 
 Hi there.
 
 </div>
+-->
+
+
+
+
+
+
+
+
+
 
 <!--![alt text][sloth]-->
 
