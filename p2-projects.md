@@ -6,7 +6,7 @@ title: Projects and Content
 I love to create; below are some of my recent projects:
 
 <div class="projectblock">
-<a href = "/2017/06/10/brainhacks">
+<a href = "/2017/06/10/brainhacks" class = "projectLink">
 <h2> Brain Hacks: A course on rational thinking for high schoolers </h2>
 </a>
 </div>
@@ -15,8 +15,7 @@ I love to create; below are some of my recent projects:
 <!--/p3-teaching-philosophy/-->
 
 <div class="projectblock">
-<a href = "/2017/06/10/brainhacks" >
-<FONT COLOR = "black">
+<a href = "/2017/06/10/brainhacks" class = "projectLink" >
 <img src="\images\SST_Closeup2.png" height="200" align="left" style="margin-right: 20px"/>
 <!--</a>-->
 
@@ -25,14 +24,13 @@ I love to create; below are some of my recent projects:
 Can you trust what you see on the news? How reliable are your memories? How do scientists sift through the data to differentiate fact from fiction? Our brains trick us every day, presenting feelings as facts and making us think we know and remember things that we actually don't. 
 <br> <br>
 I designed a course to teach high schoolers how to be skeptical of their own minds, and the information they absorb. Students learned about the tools that scientists use to design experiments and make logical deductions, and that the "facts" we see all around us aren't always as reliable as they seem.
-</FONT>
 </a>
 </div>
 
 ----------------------------------------------------------------------------
 
 <div class="projectblock">
-<a href = "/2017/06/25/mysterytubes" >
+<a href = "/2017/06/25/mysterytubes" class = "projectLink">
 <h2> Mystery Tubes </h2>
 </a>
 </div>
@@ -40,7 +38,7 @@ I designed a course to teach high schoolers how to be skeptical of their own min
 <div class="projectblock">
 <a href = "/2017/06/25/mysterytubes" class = "projectLink">
 
-<img src="\images\MysteryTube1.jpg" height="200" align="left" style="margin-right: 20px"/>
+<img src="\images\MysteryTube1.jpg" class = "projectLink" height="200" align="left" style="margin-right: 20px"/>
 
 These devices behave in strange and surprising ways! I put my own spin on a classic classroom puzzle to teach troubleshooting and the scientific method.
 </a>
@@ -66,8 +64,21 @@ These devices behave in strange and surprising ways! I put my own spin on a clas
 </div>
 -->
 
-----------------------------------------------------------------------------
+<!-------------------------------------------------------------------------------->
 
+<!--
+<a style="display:block" href = "/2017/06/25/mysterytubes">
+    <div class = "projectblock">
+    
+    some text
+    
+    <img src="\images\MysteryTube1.jpg" height="200" align="left" style="margin-right: 20px" />
+    
+    </div>
+
+
+</a>
+-->
 
 
 <!--
