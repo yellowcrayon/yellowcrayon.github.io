@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Brain Hacks&#58 A course on rational thinking for high schoolers
+tagline: Brain Hacks
 ---
 
 Can you trust what you see on the news? How reliable are your memories? How do scientists sift through the data to differentiate fact from fiction? Our brains trick us every day, presenting feelings as facts and making us think we know and remember things that we actually don't. 
@@ -18,11 +19,11 @@ Rational thinking is a crucial scientific ability that is often touched on in sc
 My main goal for the course was to show students the ways in which our brains can mislead us, and to emphasize that human brains do not think rationally by default.
 
 Course topics included
-- Memories: our memories are unstable, and can be manipulated accidentally or intentionally
-- Cognitive biases: human brains are hardwired to take shortcuts that limit our ability to think logically
-- Interpreting data: the way in which information is presented can distort our perception of it
-- Troubleshooting and the scientific method: troubleshooting is making small predictions and thinking of ways to prove or disprove them; the scientific method is the same process on a larger scale
-- Designing experiments: scientists use the strategies of controlling, blinding, and repeating to break down problems and uncover the truth
+- Memories: our memories are unstable, and can be manipulated accidentally or intentionally.
+- Cognitive biases: human brains are hardwired to take shortcuts that limit our ability to think logically.
+- Interpreting data: the way in which information is presented can distort our perception of it.
+- Troubleshooting and the scientific method: troubleshooting is making small predictions and thinking of ways to prove or disprove them; the scientific method is the same process on a larger scale.
+- Designing experiments: scientists use the strategies of controlling, blinding, and repeating to break down problems and uncover the truth.
 
 ## The School for Scientific Thought
 

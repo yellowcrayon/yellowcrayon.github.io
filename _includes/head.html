@@ -7,6 +7,8 @@
   <style>
     <!--
     A{text-decoration:none !important}
+/*    A{color:#999 !important}*/
+/*    A{opacity:0.7 !important}*/
     -->
   </style>
     
@@ -14,11 +16,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
-    {% else %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
+      {{site.title}} &middot; {{page.title}}
   </title>
 
   <!-- CSS -->
@@ -36,3 +34,11 @@
 
 </head>
 
+<!-- (This stuff went between the title tags)
+{% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+          {{ page.title }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+          {{ page.title }}
+    {% endif %}-->

@@ -7,8 +7,8 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            <a href = "/"> Jamie Wilcox </a>
-tagline:          'Hello world!'
+title:            'Jamie Wilcox'
+tagline:          'Instructional Designer'
 description:      'Scientist | Engineer | Educator'
 url:              http://hyde.getpoole.com
 baseurl:          /
