@@ -11,6 +11,7 @@
 /*    A{opacity:0.7 !important}*/
     -->
       
+      /* Default link states --------------------------------------*/
       /* formatting for regular text links */
       a:link{
           text-decoration:none;
@@ -20,6 +21,7 @@
       a:hover{
           text-decoration:none !important;
           opacity:0.7;
+          transition: .3s ease;
       }
       
       /* visited state for regular text links (after the link is clicked)*/
@@ -32,7 +34,36 @@
       a:active{
           text-decoration:none !important;
           opacity:0.7;
+          transition: .3s ease;
       }
+      /*----------------------------------------------------------*/
+      
+      
+      /* Link states for image with overlay--------------------------------------*/
+      a.imOverlay:link{
+          text-decoration:none;
+      }
+      
+      /* hover state for regular text links */
+      a.imOverlay:hover{
+          text-decoration:none !important;
+          opacity:1;
+      }
+      
+      /* visited state for regular text links (after the link is clicked)*/
+      a.imOverlay:visited{
+          text-decoration:none !important;
+          opacity:0.7;
+      }
+      
+      /* active state for regular text links (the moment the link is clicked) */
+      a.imOverlay:active{
+          text-decoration:none !important;
+          opacity:0.7;
+          transition: .3s ease;
+      }
+      /*----------------------------------------------------------*/
+      
       
       /* a special link class for the project blocks*/
       .projectLink{
@@ -43,7 +74,11 @@
       /* stuff to make image hover overlay text-----------------------------------*/
       .imageHoverContainer {
           position: relative;
-          width: 50%;
+          width: 60%;
+      }
+      
+      imageHoverContainer:hover{
+          text-decoration:none !important;
       }
 
       .image1 {
@@ -66,26 +101,28 @@
       }
 
       .imageHoverContainer:hover .overlay1 {
-          opacity: 0.7;
+          opacity: 0.5;
+          z-index:2;
       }
 
       p.textred {
           color: red;
-          font-size: 45px;
+          font-size: 300%;
       }
 
       p.textblack {
           color: black;
+          font-size: 200%;
       }
 
       .imHoverText {
           color: black;
-          font-size: 30px;
-          position: absolute;
-          top: 20%;
-          left: 25%;
-          transform: translate(-18%, -5%);
-          -ms-transform: translate(-50%, -50%);
+          font-size: 100%;
+          position: relative;
+          top: 15%;
+          left: 0%;
+/*          transform: translate(-18%, -5%);*/
+/*          -ms-transform: translate(-50%, -50%);*/
        }
       /* -----------------------------------------------------------------*/
       
