@@ -4,7 +4,7 @@ title: About Jamie Wilcox
 ---
 
 <div class="projectblock">
-<img src="\images\NicePhoto2.png" height="350" align="left" style="margin-right: 20px"/>
+<img src="/images/NicePhoto2.png" height="350" align="left" style="margin-right: 20px"/>
 
 I am an <b>instructional designer with an engineering and science background</b>. I am passionate about pedagogy, online education and education technology, and I have experience in teaching, instructional design, and content development. I am currently a PhD candidate at the University of California, Santa Barbara, where I use a high-power laser as a tractor beam to study forces within cells (I investigate motor protein behavior using an optical trap). In my free time I love to make things, including a hydraulic bicycle, educational puzzles, and handspun yarn.
 </div>

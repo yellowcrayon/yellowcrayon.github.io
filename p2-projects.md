@@ -16,7 +16,7 @@ I love to create; below are some of my recent projects:
 
 <div class="projectblock">
 <a href = "/2017/06/10/brainhacks" class = "projectLink" >
-<img src="\images\SST_Closeup2.png" height="200" align="left" style="margin-right: 20px"/>
+<img src="/images/SST_Closeup2.png" height="200" align="left" style="margin-right: 20px"/>
 <!--</a>-->
 
 <!--<a href = "/2017/06/10/brainhacks" style = "text-decoration: none">-->
@@ -38,7 +38,7 @@ I designed a course to teach high schoolers how to be skeptical of their own min
 <div class="projectblock">
 <a href = "/2017/06/25/mysterytubes" class = "projectLink">
 
-<img src="\images\MysteryTube1.jpg" class = "projectLink" height="200" align="left" style="margin-right: 20px"/>
+<img src="/images/MysteryTube1.jpg" class = "projectLink" height="200" align="left" style="margin-right: 20px"/>
 
 These devices behave in strange and surprising ways! I put my own spin on a classic classroom puzzle to teach troubleshooting and the scientific method.
 </a>

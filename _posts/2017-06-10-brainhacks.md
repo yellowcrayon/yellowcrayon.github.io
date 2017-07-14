@@ -6,7 +6,7 @@ tagline: Brain Hacks
 
 Can you trust what you see on the news? How reliable are your memories? How do scientists sift through the data to differentiate fact from fiction? Our brains trick us every day, presenting feelings as facts and making us think we know and remember things that we actually don't. 
 
-<img class = "LRUDCentered" src="\images\SST_Closeup2.png" height="300" align="middle"/>
+<img class = "LRUDCentered" src="/images/SST_Closeup2.png" height="300" align="middle"/>
 
 **I designed and taught Brain Hacks, a course to teach high schoolers how to be skeptical of their own minds, and the information they absorb.** Students learned about the tools that scientists use to design experiments and make logical deductions, and that the "facts" we see all around us aren't always as reliable as they seem.
 
