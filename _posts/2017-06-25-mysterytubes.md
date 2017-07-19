@@ -3,13 +3,17 @@ layout: page
 title: Mystery Tubes
 ---
 
-<!--<img class = "LRUDCentered" src="\images\MysteryTube7.gifv" alt="Mystery Tube" height="300" align="middle"/>-->
+Mystery tubes are an educational puzzle that can be used to teach troubleshooting, model building, and the scientific method.
 
-<video width="300" muted loop autoplay controls>
+<div style="float: left; margin: 5px 20px 5px 0px">
+<!--<video width="300" muted loop autoplay controls>-->
+<video width="300" muted loop controls>
   <source src="/images/MysteryTube7.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+</div>
 
+(Don't forget to put autoplay on!)
 
 How I learned about the mystery tube.
 
