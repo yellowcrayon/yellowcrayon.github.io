@@ -16,7 +16,7 @@ To see the inside of the mystery tube, click [here](/2017/07/13/mysterytubesreve
 
 <div class="imageHoverContainer">
     <a href="/2017/07/13/mysterytubesrevealed/" class="imOverlay">
-      <img src="/images/MysteryTube1.jpg" alt="Mystery Tube" class="image1">
+      <img src="/images/MysteryTube1.jpg" alt="Avatar" class="image1">
       <div class="overlay1">
         <div class="imHoverText"> 
         <center> 
