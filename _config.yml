@@ -11,7 +11,7 @@ title:            'Jamie Wilcox'
 tagline:          'Instructional Designer'
 description:      'Scientist | Engineer | Educator'
 url:              http://hyde.getpoole.com
-baseurl:          https://yellowcrayon.github.io
+baseurl:          yellowcrayon.github.io
 
 author:
   name:           'Mark Otto'
