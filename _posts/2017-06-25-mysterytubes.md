@@ -43,20 +43,8 @@ Then I pull on one of the knots at the other end of the tube, which also causes 
 ## Mystery Tubes in Action
 
 I first saw mystery tubes in a middle school science class, and the experience was so compelling that I remembered them fifteen years later and decided to use them in my [Brain Hacks](/2017/06/10/brainhacks/) class (a course on rational thinking for high schoolers).
-<div class="imageHoverContainer">
-    <a href="/2017/07/13/mysterytubesrevealed/" class="imOverlay">
-      <img src="/images/MysteryTube1.jpg" alt="Mystery Tube" class="image1">
-      <div class="overlay1">
-        <div class="imHoverText"> 
-        <center> 
-        <p class="textred"> Spoiler Alert! </p> 
-        <p class="textblack"> Click here <br> to reveal the puzzle 
-        </p>
-        </center> 
-        </div>
-      </div>
-    </a> 
-</div>
+
+<img src="/images/MysteryTubesClass3.jpg" height="300" align="left" style="margin-right: 20px" image-orientation="45deg"/>
 
 In Brain Hacks, I asked the class to divide themselves into groups of 4 or 5 students. I demonstrated the tube as described above, which produced a satisfying gasp from the class. I passed out two tubes to each group, and told them simply that their task was to come up with a theory for what is inside the tube, without opening it.
 
@@ -74,6 +62,21 @@ This discussion led me into a short lesson on the scientific method, using the c
 ## Tips for Success
 
 It's important to treat the mystery tubes as a puzzle that can be unraveled through logical deduction. In contrast with some puzzles which are solved with a clue or clever trick, the emphasis in solving the tubes should be on breaking down the problem into smaller questions that can be tested.
+
+<div class="imageHoverContainer">
+    <a href="/2017/07/13/mysterytubesrevealed/" class="imOverlay">
+      <img src="/images/MysteryTube1.jpg" alt="Mystery Tube" class="image1">
+      <div class="overlay1">
+        <div class="imHoverText"> 
+        <center> 
+        <p class="textred"> Spoiler Alert! </p> 
+        <p class="textblack"> Click here <br> to reveal the puzzle 
+        </p>
+        </center> 
+        </div>
+      </div>
+    </a> 
+</div>
 
 Although the students enjoy revealing the tubes at the end, I like to stress that it is more important to design logical tests and models than to exactly recreate the insides of the original tubes. I tell the students that in science, there is nobody who can reveal the "correct answer" of an experiment. Instead, experimenters must use all available information to confirm or disprove their theories. When I show the mystery tubes to colleagues, I tell them to open the tubes when they are satisfied that they have sufficiently tested their hypotheses.
 
