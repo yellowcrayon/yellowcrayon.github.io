@@ -10,12 +10,12 @@ permalink:        pretty
 title:            'Jamie Wilcox'
 tagline:          'Instructional Designer'
 description:      'Scientist | Engineer | Educator'
-url:              http://hyde.getpoole.com
+url:              https://yellowcrayon.github.io
 baseurl:          https://yellowcrayon.github.io/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Jamie Wilcox'
+  url:            https://www.linkedin.com/in/jamianne-wilcox
 
 paginate:         5
 
