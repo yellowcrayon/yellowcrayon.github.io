@@ -42,6 +42,7 @@ Then I pull on one of the knots at the other end of the tube, which also causes 
 
 ## Mystery Tubes in Action
 
+I first saw mystery tubes in a middle school science class, and the experience was so compelling that I remembered them fifteen years later and decided to use them in my [Brain Hacks](/2017/06/10/brainhacks/) class (a course on rational thinking for high schoolers).
 <div class="imageHoverContainer">
     <a href="/2017/07/13/mysterytubesrevealed/" class="imOverlay">
       <img src="/images/MysteryTube1.jpg" alt="Mystery Tube" class="image1">
@@ -56,8 +57,6 @@ Then I pull on one of the knots at the other end of the tube, which also causes 
       </div>
     </a> 
 </div>
-
-I first saw mystery tubes in a middle school science class, and the experience was so compelling that I remembered them fifteen years later and decided to use them in my [Brain Hacks](/2017/06/10/brainhacks/) class (a course on rational thinking for high schoolers).
 
 In Brain Hacks, I asked the class to divide themselves into groups of 4 or 5 students. I demonstrated the tube as described above, which produced a satisfying gasp from the class. I passed out two tubes to each group, and told them simply that their task was to come up with a theory for what is inside the tube, without opening it.
 
