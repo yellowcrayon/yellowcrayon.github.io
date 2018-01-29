@@ -6,7 +6,7 @@ title: About Jamie Wilcox
 <div class="projectblock">
 <img src="/images/NicePhoto2.png" height="350" align="left" style="margin-right: 20px"/>
 
-I am an <b>instructional designer with an engineering and science background</b>. I am passionate about pedagogy, online education and education technology, and I have experience in teaching, instructional design, and content development. I am currently a PhD candidate at the University of California, Santa Barbara, where I use a high-power laser as a tractor beam to study forces within cells (I investigate motor protein behavior using an optical trap). In my free time I love to make things, including a hydraulic bicycle, 
+I am an <b>instructional designer with an engineering and science background</b>. I am passionate about pedagogy, online education and education technology, and I have experience in teaching, instructional design, and content development. I recently completed my PhD at the University of California, Santa Barbara, where I used a high-power laser as a tractor beam to study forces within cells (I developed optical trapping technologies to measure the forces of motor proteins). In my free time I love to make things, including a hydraulic bicycle, 
 <a href="/2017/06/25/mysterytubes"> educational puzzles </a>, and handspun yarn.
 </div>
 
@@ -31,7 +31,7 @@ I believe that education is the key to maintaining a vibrant, complex, and equit
 
 ### Science and Engineering
 
-I love to build things and understand how things work. I received my Bachelor of Mechanical Engineering degree at the University of Minnesota in Minneapolis, and I am now working on a [PhD in Mechanical Engineering at UCSB](https://me.ucsb.edu/valentinelab/labmembers.htm).
+I love to build things and understand how things work. I received my Bachelor of Mechanical Engineering degree at the University of Minnesota in Minneapolis, and recently completed a [PhD in Mechanical Engineering at UCSB](https://me.ucsb.edu/valentinelab/labmembers.htm).
 	
 #### Experience
 
