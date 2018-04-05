@@ -31,7 +31,7 @@ I believe that education is the key to maintaining a vibrant, complex, and equit
 
 ### Science and Engineering
 
-I love to build things and understand how things work. I received my Bachelor of Mechanical Engineering degree at the University of Minnesota in Minneapolis, and recently completed a [PhD in Mechanical Engineering at UCSB](https://me.ucsb.edu/valentinelab/labmembers.htm).
+I love to build things and understand how things work. I received my Bachelor of Mechanical Engineering degree at the University of Minnesota in Minneapolis, and recently completed a [PhD in Mechanical Engineering at UCSB](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-41-10-2386).
 	
 #### Experience
 
