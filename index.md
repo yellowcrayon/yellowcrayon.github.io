@@ -4,9 +4,9 @@ title: About Jamie Wilcox
 ---
 
 <div class="projectblock">
-<img src="/images/NicePhoto2.png" height="350" align="left" style="margin-right: 20px"/>
+<img src="/images/NicePhoto2.png" height="330" align="left" style="margin-right: 20px"/>
 
-I am a <b>data scientist with an engineering and science background</b>, and I am passionate about using data to improve lives. I am currently a Data Science Fellow at Insight Data Science, where I conceived and built [KnitPicker](http://www.knitpicker.site), a web app that predicts and explains the difficulty of knitting patterns on [ravelry.com](http://www.ravelry.com). In my free time I love to make things, including a hydraulic bicycle, 
+I am a <b>data scientist with an engineering and science background</b>, and I am passionate about using data to improve lives. I am currently a Data Science Fellow at Insight Data Science, where I conceived and built <a href="http://www.knitpicker.site">KnitPicker</a>, a web app that predicts and explains the difficulty of knitting patterns on <a href="http://www.ravelry.com">ravelry.com</a>. In my free time I love to make things, including a hydraulic bicycle, 
 <a href="/2017/06/25/mysterytubes"> educational puzzles</a>, and handspun yarn.
 </div>
 
