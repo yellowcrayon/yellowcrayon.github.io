@@ -6,7 +6,7 @@ title: Contact
 <br/>
 
 #### Email
-jcwilcox [at] engr.ucsb.edu
+jamiannewilcox [at] gmail.com
 
 <br/>
 

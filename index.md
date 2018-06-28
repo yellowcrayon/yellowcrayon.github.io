@@ -6,14 +6,29 @@ title: About Jamie Wilcox
 <div class="projectblock">
 <img src="/images/NicePhoto2.png" height="350" align="left" style="margin-right: 20px"/>
 
-I am an <b>instructional designer with an engineering and science background</b>. I am passionate about pedagogy, online education and education technology, and I have experience in teaching, instructional design, and content development. I recently completed my PhD at the University of California, Santa Barbara, where I used a high-power laser as a tractor beam to study forces within cells (I developed optical trapping technologies to measure the forces of motor proteins). In my free time I love to make things, including a hydraulic bicycle, 
+I am a <b>data scientist with an engineering and science background</b>, and I am passionate about using data to improve lives. I am currently a Data Science Fellow at Insight Data Science, where I conceived and built [KnitPicker](http://www.knitpicker.site), a web app that predicts and explains the difficulty of knitting patterns on [ravelry.com](http://www.ravelry.com). In my free time I love to make things, including a hydraulic bicycle, 
 <a href="/2017/06/25/mysterytubes"> educational puzzles</a>, and handspun yarn.
 </div>
 
 
+### Data Science
+
+I am a data-driven person with a drive to use analytical tools to make the world better. I have experience in machine learning and statistical analysis.
+
+#### Experience
+
+- Data: Simulation, statistical analysis, data cleaning and processing, time series analysis, natural language processing.
+- Programming: Python (scikit-learn, pandas, sqlite3, numpy, seaborn), MATLAB, SQL, C/C++, Git, LaTeX.
+- Built data product knitpicker.site using a linear regression model and bag of words.
+- Mined metadata for over 750 000 patterns from the Ravelry API and stored them in a SQLite database.
+
+
+
 ### Teaching
 
-I believe that education is the key to maintaining a vibrant, complex, and equitable society. I am passionate about combining technology with research-proven teaching and learning strategies to create high quality content and tools for students. I have particular interest and experience in teaching advanced science and engineering topics to high school, college, and adult learners.
+<!--I am passionate about pedagogy, online education and education technology, and I have experience in teaching, instructional design, and content development.-->
+
+I believe that education is the key to maintaining a vibrant, complex, and equitable society. I am passionate about combining technology with research-proven teaching and learning strategies to create high quality content and tools for students, and I have experience in teaching, instructional design, and content development. My specialty is teaching advanced science and engineering topics to high school, college, and adult learners.
 
 
 #### Experience
@@ -31,11 +46,11 @@ I believe that education is the key to maintaining a vibrant, complex, and equit
 
 ### Science and Engineering
 
-I love to build things and understand how things work. I received my Bachelor of Mechanical Engineering degree at the University of Minnesota in Minneapolis, and recently completed a [PhD in Mechanical Engineering at UCSB](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-41-10-2386).
+I love to build things and understand how things work. I received my Bachelor of Mechanical Engineering degree at the University of Minnesota in Minneapolis, and recently completed a [PhD in Mechanical Engineering at UCSB](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-41-10-2386) where I used a high-power laser as a tractor beam to study forces within cells (I developed optical trapping technologies to measure the forces of motor proteins).
 	
 #### Experience
 
-- Programming: MATLAB, Python, C++, LabVIEW, LaTeX, Arduino, G-Code.
+- Programming: MATLAB, python, LabVIEW, Arduino, G-Code.
 - Engineering software: Autodesk Inventor, AutoCAD, Pro/ENGINEER, FlashCut CNC, grbl, CorelDRAW.
 - Upgraded, operated, and maintained the complex optics and electronics of an optical trap.
 - Built a rainwater harvesting system in Guatemala with Engineers Without Borders.
