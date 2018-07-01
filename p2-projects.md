@@ -5,25 +5,6 @@ title: Projects
 
 I love to create; below are some of my recent projects:
 
-<!-- KnitPicker ----------------------------------------------------------->
-<div class="projectblock">
-<a href = "/2018/07/01/knitpicker" class = "projectLink">
-<h2> KnitPicker </h2>
-</a>
-</div>
-
-<div class="projectblock">
-<a href = "/2018/07/01/knitpicker" class = "projectLink">
-<!-- <img src="/images/MysteryTube1.jpg" height="200" align="left" style="margin-right: 20px"/> -->
-
-I created an app that predicts and explains the difficulty of knitting patterns on ravelry.com.
-</a>
-</div>
-
-<div class="projectblock">
-<hr>
-</div>
-
 
 <!-- Brain Hacks ----------------------------------------------------------->
 <div class="projectblock">
