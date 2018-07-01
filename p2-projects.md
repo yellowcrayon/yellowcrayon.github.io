@@ -5,8 +5,27 @@ title: Projects
 
 I love to create; below are some of my recent projects:
 
+<!-- KnitPicker ----------------------------------------------------------->
+<div class="projectblock">
+<a href = "/2018/07/01/knitpicker" class = "projectLink">
+<h2> KnitPicker </h2>
+</a>
+</div>
 
-<!-- Brain Hacks -----------------------------------------------------------> 
+<div class="projectblock">
+<a href = "/2018/07/01/knitpicker" class = "projectLink">
+<!-- <img src="/images/MysteryTube1.jpg" height="200" align="left" style="margin-right: 20px"/> -->
+
+I created an app that predicts and explains the difficulty of knitting patterns on ravelry.com.
+</a>
+</div>
+
+<div class="projectblock">
+<hr>
+</div>
+
+
+<!-- Brain Hacks ----------------------------------------------------------->
 <div class="projectblock">
 <a href = "/2017/06/10/brainhacks" class = "projectLink">
 <h2> Brain Hacks: A course on rational thinking for high schoolers </h2>
@@ -17,7 +36,7 @@ I love to create; below are some of my recent projects:
 <a href = "/2017/06/10/brainhacks" class = "projectLink" >
 <img src="/images/SST_Closeup2.png" height="200" align="left" style="margin-right: 20px"/>
 
-Can you trust what you see on the news? How reliable are your memories? How do scientists sift through the data to differentiate fact from fiction? Our brains trick us every day, presenting feelings as facts and making us think we know and remember things that we actually don't. 
+Can you trust what you see on the news? How reliable are your memories? How do scientists sift through the data to differentiate fact from fiction? Our brains trick us every day, presenting feelings as facts and making us think we know and remember things that we actually don't.
 <br> <br>
 I designed a course to teach high schoolers how to be skeptical of their own minds, and the information they absorb. Students learned about the tools that scientists use to design experiments and make logical deductions, and that the "facts" we see all around us aren't always as reliable as they seem.
 </a>
@@ -28,7 +47,7 @@ I designed a course to teach high schoolers how to be skeptical of their own min
 </div>
 
 
-<!-- Mystery Tubes -----------------------------------------------------------> 
+<!-- Mystery Tubes ----------------------------------------------------------->
 <div class="projectblock">
 <a href = "/2017/06/25/mysterytubes" class = "projectLink">
 <h2> Mystery Tubes </h2>
@@ -54,7 +73,7 @@ These devices behave in strange and surprising ways! I put my own spin on a clas
 
 
 
-<!-- Example code -----------------------------------------------------------> 
+<!-- Example code ----------------------------------------------------------->
 <!--
 <div class="projectblock">
 <h2> Ethics of Automation </h2>
