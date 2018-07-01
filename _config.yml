@@ -19,10 +19,12 @@ author:
 
 paginate:         5
 
+future:           true
+
 # Custom vars
-#version:          
+#version:
 
 #github:
-#  repo:           
+#  repo:
 
 gems: [jekyll-paginate]
