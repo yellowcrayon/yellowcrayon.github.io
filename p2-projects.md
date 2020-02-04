@@ -3,9 +3,6 @@ layout: page
 title: Projects
 ---
 
-I love to create; below are some of my recent projects:
-
-
 <!-- Brain Hacks ----------------------------------------------------------->
 <div class="projectblock">
 <a href = "/2017/06/10/brainhacks" class = "projectLink">
