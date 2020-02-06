@@ -17,7 +17,7 @@ I am a <b>data scientist</b> with experience in <a href="https://www.linkedin.co
 
 ### Highlights
 * <b>Data Scientist at Quora</b>: Used data to [inform product decisions](https://www.linkedin.com/in/jamianne-wilcox/) in our mission to share and grow the world's knowledge.
-* <b>Insight Data Science Fellow</b>: Built an app that [predicts the difficulty of knitting patterns](TODO: link to blog post).
+* <b>Insight Data Science Fellow</b>: Built an app that [predicts the difficulty of knitting patterns](/2020/02/04/knitpickerblogpost).
 * <b>Instructional Designer</b>: Designed and taught a [course on rational thinking](/2017/06/10/brainhacks) for high schoolers.
 * <b>Scientist</b>: Used a laser as a tractor beam to [measure protein forces](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-41-10-2386).
 * <b>Maker</b>:

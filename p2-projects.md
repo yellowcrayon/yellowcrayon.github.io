@@ -5,6 +5,26 @@ title: Projects
 
 <!-- Brain Hacks ----------------------------------------------------------->
 <div class="projectblock">
+<a href = "/2020/02/04/knitpickerblogpost" class = "projectLink">
+<h2> Knitpicker: An app that predicts the difficulty of knitting patterns </h2>
+</a>
+</div>
+
+<div class="projectblock">
+<a href = "/2020/02/04/knitpickerblogpost" class = "projectLink" >
+<img src="/images/kp_screenshot_1.png" height="300" align="left" style="margin-right: 20px"/>
+
+I use a weighted linear regression model to predict the difficulty of knitting patterns, and feature importance to help users interpret the prediction.
+
+</a>
+</div>
+
+<div class="projectblock">
+<hr>
+</div>
+
+<!-- Brain Hacks ----------------------------------------------------------->
+<div class="projectblock">
 <a href = "/2017/06/10/brainhacks" class = "projectLink">
 <h2> Brain Hacks: A course on rational thinking for high schoolers </h2>
 </a>
