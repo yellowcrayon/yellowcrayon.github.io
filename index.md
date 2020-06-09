@@ -7,7 +7,12 @@ title: About Jamie Wilcox
 <img src="/images/NicePhoto2.png" height="250" align="left" style="margin-right: 20px"/>
 <br>
 
-I am a <b>data scientist</b> with experience in <a href="https://www.linkedin.com/in/jamianne-wilcox/">analytics and machine learning</a>, and my goal is to use data to improve lives. I am especially passionate about pedagogy and education technology, and I have experience in teaching, <a href="/2017/06/10/brainhacks">instructional design</a>, and <a href="/2017/06/25/mysterytubes/">content development</a>.
+I am a <b>data scientist</b> with experience in <a href="https://www.linkedin.com/in/jamianne-wilcox/">analytics and machine learning</a>, and I am passionate about using data to power decision making and improve lives. 
+
+<!-- 
+and my goal is to use data to improve lives. 
+I am especially passionate about pedagogy and education technology, and I have experience in teaching, <a href="/2017/06/10/brainhacks">instructional design</a>, and <a href="/2017/06/25/mysterytubes/">content development</a>.
+-->
 
 </div>
 
