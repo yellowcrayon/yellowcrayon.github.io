@@ -10,7 +10,8 @@ permalink:        pretty
 # Setup
 title:            'Jamie Wilcox'
 tagline:          'Instructional Designer'
-description:      'Scientist | Engineer | Educator'
+description:      'Data Scientist'
+# description:      'Scientist | Engineer | Educator'
 url:              https://yellowcrayon.github.io
 # baseurl:          https://yellowcrayon.github.io/
 # baseurl:          '/'
