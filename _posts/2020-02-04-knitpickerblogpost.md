@@ -146,9 +146,11 @@ To fix the bias, I added weights equal to the inverse of the number of difficult
 
 The weights are put into the linear regression error function like this:
 
-<img class = "LRUDCentered" src="/images/equation_1.png" height="30" align="left"/>
+<img class = "LRUDCentered" src="/images/equation_2.png" height="30" align="left"/>
 <div class="projectblock">
 </div>
+
+where y represents the data points, y-hat represents the predictions, and w represents the weights.
 
 Training examples with a higher weight get more importance assigned to their error value---the model tries harder to minimize the errors of the more heavily weighted higher-difficulty patterns, and this results in the model skewing the difficulty predictions up a little bit. This weigheted linear regression model tends to over-predict---a pattern that is actually a 3 might be predicted as a 5.
 
