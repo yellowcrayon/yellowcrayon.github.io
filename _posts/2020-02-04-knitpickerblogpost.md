@@ -3,7 +3,7 @@ layout: page
 title: KnitPicker
 ---
 
-Knitpicker is an app I made that helps knitters find the right project for their skill level.
+Knitpicker is an app I made that helps knitters find the right project for their skill level. (Knitpicker is no longer live.)
 
 <!-- <div class="projectblock">
 <a href = "http://knitpicker.site/" class = "projectLink" >
