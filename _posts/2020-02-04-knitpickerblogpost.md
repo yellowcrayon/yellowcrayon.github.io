@@ -7,7 +7,7 @@ Knitpicker is an app I made that helps knitters find the right project for their
 
 <!-- <div class="projectblock">
 <a href = "http://knitpicker.site/" class = "projectLink" >
-<img src="/images/kp_screenshot_1.png" height="500" align="left" style="margin-right: 20px"/>
+<img src="/images/kp_screenshot_1.png" height="700" align="left" style="margin-right: 20px"/>
 </a>
 </div> -->
 
