@@ -5,10 +5,18 @@ title: KnitPicker
 
 [Knitpicker](http://knitpicker.site/) is an app I made that helps knitters find the right project for their skill level.
 
-<div class="projectblock">
+<!-- <div class="projectblock">
 <a href = "http://knitpicker.site/" class = "projectLink" >
 <img src="/images/kp_screenshot_1.png" height="500" align="left" style="margin-right: 20px"/>
 </a>
+</div> -->
+
+<div style="float: left; margin: 5px 20px 5px 0px">
+<video width="300" muted loop autoplay controls>
+<!--<video width="300" muted loop controls>-->
+  <source src="/images/knitpicker_video_3.mov" type="video/mov">
+Your browser does not support the video tag.
+</video>
 </div>
 
 <div class="projectblock">
