@@ -11,12 +11,13 @@ Knitpicker is an app I made that helps knitters find the right project for their
 </a>
 </div> -->
 
+<div class="projectblock">
 <div style="float: left; margin: 5px 20px 5px 0px">
-<video width="300" muted loop autoplay controls>
-<!--<video width="300" muted loop controls>-->
+<video width="600" muted loop autoplay controls>
   <source src="/images/knitpicker_video_3.mov" type="video/mov">
 Your browser does not support the video tag.
 </video>
+</div>
 </div>
 
 <div class="projectblock">
