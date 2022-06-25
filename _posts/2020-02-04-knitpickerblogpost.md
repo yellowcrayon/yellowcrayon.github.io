@@ -3,7 +3,7 @@ layout: page
 title: KnitPicker
 ---
 
-[Knitpicker](http://knitpicker.site/) is an app I made that helps knitters find the right project for their skill level.
+Knitpicker is an app I made that helps knitters find the right project for their skill level.
 
 <!-- <div class="projectblock">
 <a href = "http://knitpicker.site/" class = "projectLink" >
@@ -53,7 +53,7 @@ Ravelry does have a rating system where users can leave difficulty reviews on a 
 
 <br>
 ## Knitpicker predicts pattern difficulty
-On [knitpicker](http://knitpicker.site/), you can input a url to a Ravelry pattern page, and see a predition of how difficult that pattern is on Ravelry's 1 to 10 scale.
+On knitpicker, you can input a url to a Ravelry pattern page, and see a predition of how difficult that pattern is on Ravelry's 1 to 10 scale.
 
 <img class = "LRUDCentered" src="/images/kp_screenshot_3.png" height="300" align="middle"/>
 
