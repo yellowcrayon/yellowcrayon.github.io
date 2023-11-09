@@ -7,7 +7,7 @@ title: About Jamie Wilcox
 <img src="/images/NicePhoto2.png" height="250" align="left" style="margin-right: 20px"/>
 <br>
 
-I am a <b>data scientist</b> with experience in <a href="https://www.linkedin.com/in/jamianne-wilcox/">analytics and machine learning</a>, and I am passionate about using data to power decision making and improve lives. 
+I am a <b>data scientist</b> with experience in <a href="https://www.linkedin.com/in/jamianne-wilcox/">machine learning and analytics</a>, and I am passionate about using data to solve complex problems, and to power decision making to create positive global change. 
 
 <!-- 
 and my goal is to use data to improve lives. 
@@ -21,7 +21,8 @@ I am especially passionate about pedagogy and education technology, and I have e
 </div>
 
 ### Highlights
-* <b>Data Scientist at Quora</b>: Used data to [inform product decisions](https://www.linkedin.com/in/jamianne-wilcox/) in our mission to share and grow the world's knowledge.
+* <b>Senior Data Scientist and Tech Lead at C.H. Robinson</b>: Tech lead a team that uses AI to automate order acceptance, resulting in better outcomes for automated orders including 6% increase in volume, 21% increase in profit per order, and improved customer experience. 
+* <b>Data Scientist at Quora</b>: Used data to inform product decisions in our mission to share and grow the world's knowledge.
 * <b>Insight Data Science Fellow</b>: Built an app that [predicts the difficulty of knitting patterns](/2020/02/04/knitpickerblogpost).
 * <b>Instructional Designer</b>: Designed and taught a [course on rational thinking](/2017/06/10/brainhacks) for high schoolers.
 * <b>Scientist</b>: Used a laser as a tractor beam to [measure protein forces](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-41-10-2386).
