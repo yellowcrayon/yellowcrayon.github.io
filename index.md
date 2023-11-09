@@ -27,6 +27,6 @@ I am especially passionate about pedagogy and education technology, and I have e
 * <b>Instructional Designer</b>: Designed and taught a [course on rational thinking](/2017/06/10/brainhacks) for high schoolers.
 * <b>Scientist</b>: Used a laser as a tractor beam to [measure protein forces](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-41-10-2386).
 * <b>Maker</b>:
-	* Built a rainwater harvesting system for a school in Guatemala through [Engineers Without Borders](https://www.linkedin.com/in/jamianne-wilcox/).
+	* Built a rainwater harvesting system for a school in Guatemala through Engineers Without Borders.
 	* I put my own spin on a classic [classroom puzzle](/2017/06/25/mysterytubes/) to teach troubleshooting and the scientific method.
 	* I love to knit and [spin yarn](https://www.quora.com/Is-the-spindle-of-a-spinning-wheel-really-as-sharp-as-it-is-in-Sleeping-Beauty/answer/Jamie-Wilcox-17).
