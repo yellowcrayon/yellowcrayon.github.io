@@ -7,7 +7,7 @@ title: About Jamie Wilcox
 <img src="/images/NicePhoto2.png" height="250" align="left" style="margin-right: 20px"/>
 <br>
 
-I am a <b>data scientist</b> with experience in <a href="https://www.linkedin.com/in/jamianne-wilcox/">machine learning and analytics</a>, and I am passionate about using data to solve complex problems, and to power decision making to create positive global change. 
+I am a <b>machine learning tech lead</b> with expertise in <a href="https://www.linkedin.com/in/jamianne-wilcox/">creating impactful data products</a>. I am passionate about using data to solve complex problems and to power decision-making to create positive global change.
 
 <!-- 
 and my goal is to use data to improve lives. 
