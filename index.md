@@ -21,7 +21,7 @@ I am especially passionate about pedagogy and education technology, and I have e
 </div>
 
 ### Highlights
-* <b>Senior Data Scientist and Tech Lead at C.H. Robinson</b>: Tech lead a team that uses AI to automate order acceptance, resulting in better outcomes for automated orders including 6% increase in volume, 21% increase in profit per order, and improved customer experience. 
+* <b>Senior Data Scientist and Tech Lead at C.H. Robinson</b>: Tech lead a team that uses AI to automate order acceptance, resulting in better outcomes for automated orders including 5% increase in volume, 21% increase in profit per order, and improved customer experience. 
 * <b>Data Scientist at Quora</b>: Used data to inform product decisions in our mission to share and grow the world's knowledge.
 * <b>Insight Data Science Fellow</b>: Built an app that [predicts the difficulty of knitting patterns](/2020/02/04/knitpickerblogpost).
 * <b>Instructional Designer</b>: Designed and taught a [course on rational thinking](/2017/06/10/brainhacks) for high schoolers.
